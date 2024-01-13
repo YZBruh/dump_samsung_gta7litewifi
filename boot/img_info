@@ -1,0 +1,16 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dt=dtb.img
+kernel_size=15034683
+ramdisk_size=794151
+dtb_offset=0x07808000
+dtb_size=404286
+base_addr=0x40078000
+kernel_offset=0x00008000
+ramdisk_offset=0x11a88000
+tags_offset=0x07808000
+dtbo_offset=0xbff88000
+cmd_line='bootopt=64S3,32N2,64N2 androidboot.tag=TabA7lite_Huaqin_BSP_20220426063935'
+board="SRPUA15A001"
+format=gzip

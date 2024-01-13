@@ -1,0 +1,20 @@
+## gta7litewifixx-user 11 RP1A.200720.012 T220XXU1AVE1 release-keys
+- Manufacturer: samsung
+- Platform: mt6765
+- Codename: gta7litewifi
+- Brand: samsung
+- Flavor: gta7litewifixx-user
+- Release Version: 11
+- Kernel Version: 4.19.127
+- Id: RP1A.200720.012
+- Incremental: T220XXU1AVE1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 213
+- Fingerprint: samsung/gta7litewifixx/gta7litewifi:11/RP1A.200720.012/T220XXU1AVE1:user/release-keys
+- OTA version: 
+- Branch: gta7litewifixx-user-11-RP1A.200720.012-T220XXU1AVE1-release-keys
+- Repo: samsung_gta7litewifi_dump
